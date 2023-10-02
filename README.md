@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dano202342
+- 👋 Hi, I’m @Dano
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
